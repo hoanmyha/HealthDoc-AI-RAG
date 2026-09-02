@@ -9,7 +9,7 @@ The system supports both digital and scanned PDFs and combines OCR, metadata-awa
 
 ## Demo
 
-![HealthDoc AI Interface](assets/Screenshot 2026-09-02 183204.png)
+![HealthDoc AI Interface](assets/rag-pipeline.png)
 
 **Presentation:** [View Project Presentation](https://docs.google.com/presentation/d/1aXLXDQIiyc9TXglzEdl8FYuqud3Vo80_/edit?slide=id.p4#slide=id.p4)
 
