@@ -11,7 +11,7 @@ The system supports both digital and scanned PDFs and combines OCR, metadata-awa
 
 ![HealthDoc AI Interface](assets/healthdoc-ui.png)
 
-**Presentation:** [View Project Presentation](YOUR_PRESENTATION_LINK_HERE)
+**Presentation:** [View Project Presentation](https://docs.google.com/presentation/d/1aXLXDQIiyc9TXglzEdl8FYuqud3Vo80_/edit?slide=id.p4#slide=id.p4)
 
 ## Problem
 
@@ -213,7 +213,7 @@ healthdoc-ai-rag/
 Data Science & Political Science  
 Augustana College
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Project Presentation](YOUR_PRESENTATION_LINK_HERE)
+[LinkedIn](https://www.linkedin.com/in/hoan-my-ha/) · [Project Presentation](https://docs.google.com/presentation/d/1aXLXDQIiyc9TXglzEdl8FYuqud3Vo80_/edit?slide=id.p4#slide=id.p4)
 
 ## Acknowledgment
 
