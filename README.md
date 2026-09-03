@@ -195,15 +195,24 @@ The first run may take additional time while the required open-source models are
 
 ```text
 healthdoc-ai-rag/
+│
 ├── README.md
-├── HealthDoc_RAG_Chatbot.ipynb
+├── LICENSE
+│
+├── notebooks/
+│   ├── HealthDoc_RAG_Chatbot.ipynb       ← main/final notebook
+│   ├── document_processing.ipynb
+│   ├── metadata_tagging.ipynb
+│   ├── embeddings_retrieval.ipynb
+│   └── evaluation.ipynb
+│
 ├── assets/
 │   ├── healthdoc-ui.png
 │   ├── rag-pipeline.png
 │   └── evaluation-results.png
-├── sample/
-│   └── README.md
-└── LICENSE
+│
+└── sample/
+    └── README.md
 ```
 
 ## Author
